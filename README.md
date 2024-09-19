@@ -1,5 +1,5 @@
 # tsne-pipeline project
-**By: Erika von Kirchbach, Franklin Fuchs, Syed Hoque**
+**Led by Erika von Kirchbach with the help of Franklin Fuchs and Syed Hoque**
 
 **This project's goal is to help visualize thousands of documents and their *inter-document relationships and any possible hidden trends.***
 
